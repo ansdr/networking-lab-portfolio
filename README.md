@@ -1,2 +1,2 @@
 # networking-lab-portfolio
-My Packet Tracer labs, Python scripts &amp; automation notes
+A collection of hands-on labs documenting my journey in refreshing and building new skills in enterprise networking.
